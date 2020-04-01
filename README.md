@@ -2,10 +2,14 @@
 
 Learn and Share Knowledge
 
-Learning Datascience to become Data Scientist 
+Inceptez is a Knowledge Transferring Center 
 
-Inceptez is a Knowledge Transfering Center 
+I am Glad to collect and gathering the datas 
 
-collecting datas/gathering datas 
+Learning Datascience to become a Data Scientist 
+
+
+
+ 
 
  
