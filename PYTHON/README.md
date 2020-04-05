@@ -1,4 +1,6 @@
-
+                                                    Brief about the classes
+                                                    
+                                                    
 Day - 1: 21-03-2020 We Learnt about Different types of Analytics Different types of Machine Learning Why Python? Features of Python
 
 Day - 2: 28-03-2020 We Started practising the python Ways to implement python Why Jupyter notebook? What is keyword, variable? Conditions on creating a identifier Different datastructure List, Tuple, Set, Dictionary, String Typecast
