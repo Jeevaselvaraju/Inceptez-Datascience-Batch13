@@ -8,3 +8,5 @@ Day - 2: 28-03-2020 We Started practising the python Ways to implement python Wh
 Day - 3: 29-03-2020 String manupulations and functions Control Statement Condition Statement What is Indendation? Functions Paraments, Defaut Parameters, Recursive functions
 
 Day - 4: 04-04-2020 Class and Object OS Library Module in python import and from import Numpy: Why Numpy? Numpy Basics
+
+Day - 5: 05-04-2020 Pandas Data Loading Data Manipulation Data Filtering Data Grouping
