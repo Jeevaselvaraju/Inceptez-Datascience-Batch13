@@ -10,3 +10,5 @@ Day - 3: 29-03-2020 String manupulations and functions Control Statement Conditi
 Day - 4: 04-04-2020 Class and Object OS Library Module in python import and from import Numpy: Why Numpy? Numpy Basics
 
 Day - 5: 05-04-2020 Pandas Data Loading Data Manipulation Data Filtering Data Grouping
+
+Day - 6: 18-04-2020 List Comprehension Zip Enumerate Lambda Map Filter Reduce
